@@ -1,1 +1,2 @@
 # News-Classification
+a project that automatically classify news articles into predefined categories such as politics, sports, technology, and more. It involves data preprocessing (cleaning, tokenization, vectorization), feature extraction using techniques like TF-IDF, and training classification algorithms such as Naive Bayes, Logistic Regression. The goal is to create an efficient and accurate classifier that can handle large volumes of textual data and support real-time or batch classification of news content.
